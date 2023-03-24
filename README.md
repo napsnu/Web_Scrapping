@@ -8,7 +8,7 @@ After creating dataset, we further moved for data cleaning and data preparation,
 
 not useful.
 
-After that we have seen following things are done :
+After that following things are done :
 
 1) Player stat correlations
 2) Player minutes and scoring distributions (Playoffs vs. Regular Season)
